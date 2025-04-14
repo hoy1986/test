@@ -1,0 +1,962 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1" />
+<meta http-equiv="X-UA-Compatible" content="IE=9" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Xia Men first page network technology co.,Limited</title>
+<meta name="keywords" content="Xia Men first page network technology co.,Limited" />
+<meta name="description" content="Xia Men first page network technology co.,Limited" />
+<link type="text/css" rel="stylesheet" href="/template/css/bootstrap.css">
+<link type="text/css" rel="stylesheet" href="/template/css/font-awesome.min.css">
+<link type="text/css" rel="stylesheet" href="/template/css/meanmenu.min.css">
+<link type="text/css" rel="stylesheet" href="/template/css/style.css">
+<link href="https://fonts.googleapis.com/css?family=Montserrat:500,600,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Cambo" rel="stylesheet">
+<link href="/template/images/logo.ico" rel="shortcut icon" />
+<script type="text/javascript" src="/template/js/jquery-1.8.3.js"></script>
+<script type="text/javascript" src="/template/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/template/js/demo.js"></script>
+<script type="text/javascript" src="/template/js/jquery.flexisel.js"></script>
+<script type="text/javascript" src="/template/js/jquery.velocity.min.js"></script>
+<script type="text/javascript" src="/template/js/mainscript.js"></script>
+<script language="javascript" src="/js/jquery.blockUI.js"></script>
+<script language="javascript" src="/js/jquery.validate.min.js"></script>
+<script type="text/javascript" src="/js/front/common.js"></script>
+<script type="text/javascript" src="/js/front/inquiry/index.js"></script>
+<script type="text/javascript" src="/js/front/inquiry/inquirydone.js"></script>
+<script>
+if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+        $(function () {
+            $('.about-main img').attr("style","");
+            $(".about-main img").attr("width","");
+            $(".about-main img").attr("height","");        
+            $('.con_main img').attr("style","");
+            $(".con_main img").attr("width","");
+            $(".con_main img").attr("height","");        
+            $('.news_main div.news_main_de img').attr("style","");
+            $(".news_main div.news_main_de img").attr("width","");
+            $(".news_main div.news_main_de img").attr("height","");        
+            $('.pro_detail .pro_detail_m img').attr("style","");
+            $(".pro_detail .pro_detail_m img").attr("width","");
+            $(".pro_detail .pro_detail_m img").attr("height","");
+
+        })
+}
+</script>
+<!--[if ie9]
+	<script src="js/respond.min.js"></script>
+    <script src="js/html5shiv.min.js"></script>
+-->
+
+<!--[if IE 8]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+<![endif]-->
+
+
+
+</head>
+<body>
+ <!-- Messenger 聊天插件 Code -->
+    <div id="fb-root"></div>
+
+    <!-- Your 聊天插件 code -->
+    <div id="fb-customer-chat" class="fb-customerchat">
+    </div>
+
+    <script>
+      var chatbox = document.getElementById('fb-customer-chat');
+      chatbox.setAttribute("page_id", "1977119142593452");
+      chatbox.setAttribute("attribution", "biz_inbox");
+    </script>
+
+    <!-- Your SDK code -->
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          xfbml            : true,
+          version          : 'v12.0'
+        });
+      };
+
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/en_GB/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script> 
+<header class="large">
+<div class="header clearfix">
+	<div class="container">
+    <div class="row">
+        
+           
+<a title="Xia Men first page network technology co.,Limited" href="/" id="logo"><h1><img src="/uploadfile/userimg/c2b9678ea6aa5b1bf8ad0194789d6be1.png" alt="Xia Men first page network technology co.,Limited" /></h1></a>
+      
+                 
+        <div class="mainmenu-area bg-color-2">
+				<div class="mainmenu-left visible-lg visible-md">
+                    <div class="mainmenu">
+                        <nav>
+                            <ul>
+                                  <li  class="active" ><a  href='/'>Home</a></li>
+    
+                        <li ><a  href="/about-us_d1">About Us</a>
+                               
+                       <ul class="vmegamenu">
+                                    
+                              <li><a href="/about-us01_d40" >about us01</a></li>                   
+                          
+                            </ul> 
+                            
+                        </li> 
+                                <li  class='product_vmegamenu'  ><a   href="/products" class="hover-icon">Products</a>
+                                	<ul class="product_vmegamenu">
+                                                   
+                                    	<span>
+                                        <li><a  href="/product-categories-1_c63">PRODUCT CATEGORIES 1</a>
+                                        	<ul class="vmegamenu"  style="opacity:1;visibility:visible">
+                                               
+                                                    <li class="col-sm-8 clearfix">
+                                                        
+                                                	<div class="pro_menu_list01">
+                                              <a  href="/1_c73">1</a>
+                                               
+                                                    </div>
+                                             
+                                                    </li>
+                                                      
+                                                <li class="menu-right col-sm-4">
+                                                	<a href="/product-categories-1_c63" class="menu-image"><img src="/uploadfile/category/7862236e34bbeaad57f2f25ac9f82020.jpg" alt="PRODUCT CATEGORIES 1" /></a>
+                                                	<a href="/product-categories-1_c63" class="menu-title">Set</a>
+                                                    <a href="/product-categories-1_c63" class="menu-more">shop now<i class="fa fa-angle-right"></i></a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        </span>
+                                              
+                                    	<span>
+                                        <li><a  href="/product-categories-2_c64">Product Categories 2</a>
+                                        	<ul class="vmegamenu" >
+                                                 
+                                                <li class="menu-right col-sm-4">
+                                                	<a href="/product-categories-2_c64" class="menu-image"><img src="/uploadfile/category/089eb36cc6a03bf33ce04dc36d5b5133.jpg" alt="Product Categories 2" /></a>
+                                                	<a href="/product-categories-2_c64" class="menu-title">Set</a>
+                                                    <a href="/product-categories-2_c64" class="menu-more">shop now<i class="fa fa-angle-right"></i></a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        </span>
+                                              
+                                    	<span>
+                                        <li><a  href="/product-categories-3_c65">Product Categories 3</a>
+                                        	<ul class="vmegamenu" >
+                                                 
+                                                <li class="menu-right col-sm-4">
+                                                	<a href="/product-categories-3_c65" class="menu-image"><img src="/uploadfile/category/78d6e9bd7062d7054fc7db7ee79d2030.jpg" alt="Product Categories 3" /></a>
+                                                	<a href="/product-categories-3_c65" class="menu-title">Set</a>
+                                                    <a href="/product-categories-3_c65" class="menu-more">shop now<i class="fa fa-angle-right"></i></a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        </span>
+                                              
+                                    	<span>
+                                        <li><a  href="/product-categories-4_c66">Product Categories 4</a>
+                                        	<ul class="vmegamenu" >
+                                                 
+                                                <li class="menu-right col-sm-4">
+                                                	<a href="/product-categories-4_c66" class="menu-image"><img src="/uploadfile/category/f04fe4ddde15f03da831dda103aaf7a6.jpg" alt="Product Categories 4" /></a>
+                                                	<a href="/product-categories-4_c66" class="menu-title">Set</a>
+                                                    <a href="/product-categories-4_c66" class="menu-more">shop now<i class="fa fa-angle-right"></i></a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        </span>
+                                              
+                                    	<span>
+                                        <li><a  href="/001_c70">001</a>
+                                        	<ul class="vmegamenu" >
+                                                 
+                                                <li class="menu-right col-sm-4">
+                                                	<a href="/001_c70" class="menu-image"><img src="/uploadfile/category/637717d95a487fbadfa6fa556d2e0051.png" alt="001" /></a>
+                                                	<a href="/001_c70" class="menu-title">Set</a>
+                                                    <a href="/001_c70" class="menu-more">shop now<i class="fa fa-angle-right"></i></a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        </span>
+                                              
+                                    	<span>
+                                        <li><a  href="/ball_c72">ball</a>
+                                        	<ul class="vmegamenu" >
+                                                 
+                                                <li class="menu-right col-sm-4">
+                                                	<a href="/ball_c72" class="menu-image"><img src="/uploadfile/category/8fc41a8fc430093c6f648f8b191c35bd.jpg" alt="ball" /></a>
+                                                	<a href="/ball_c72" class="menu-title">Set</a>
+                                                    <a href="/ball_c72" class="menu-more">shop now<i class="fa fa-angle-right"></i></a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        </span>
+                                              
+                                    	<span>
+                                        <li><a  href="/all-over-lace_c71">all over lace</a>
+                                        	<ul class="vmegamenu" >
+                                                 
+                                                <li class="menu-right col-sm-4">
+                                                	<a href="/all-over-lace_c71" class="menu-image"><img src="/uploadfile/category/" alt="all over lace" /></a>
+                                                	<a href="/all-over-lace_c71" class="menu-title">Set</a>
+                                                    <a href="/all-over-lace_c71" class="menu-more">shop now<i class="fa fa-angle-right"></i></a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        </span>
+                                         
+                                      
+                                  
+                                    </ul>		
+                                </li>
+                                  
+                <li ><a   href="/news-case_nc1">News&Case</a>
+                          
+                    <ul class="vmegamenu">
+                                       
+        <li><a href="/yhhg_nc11">YHHG</a></li>
+                          
+        <li><a href="/our-certificate_nc2">Our Certificate</a></li>
+     
+                 </ul>        
+                         
+                </li> 
+               
+                        <li ><a  href="/contact-us_d2">Contact Us</a>
+                          
+                        </li> 
+                            </ul>
+                        </nav>
+                    </div>
+					
+				</div>
+            </div>
+        <div class="mobile-menu-area hidden-md hidden-lg">
+                <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="mobile-menu">
+                            <nav id="mobile-menu">
+                                <ul>
+                             <li  class="active" ><a  href='/'>Home</a></li>
+    
+                        <li ><a  href="/about-us_d1">About Us</a>
+                             
+                       <ul class="vmegamenu">
+                                    
+                              <li><a href="/about-us01_d40" >about us01</a></li>                   
+                          
+                            </ul> 
+                            
+                        </li> 
+                                   <li ><a   href="/products">Products</a>
+                    	<ul class="vmegamenu">
+                         
+                                <li><a  href="/product-categories-1_c63">PRODUCT CATEGORIES 1</a>
+             
+                       	<ul class="vmegamenu">
+         
+              <li><a  href="/1_c73">1</a>
+ 
+              </li>
+               	
+            			</ul>
+                              
+         			</li>
+         		 
+                                <li><a  href="/product-categories-2_c64">Product Categories 2</a>
+                  
+         			</li>
+         		 
+                                <li><a  href="/product-categories-3_c65">Product Categories 3</a>
+                  
+         			</li>
+         		 
+                                <li><a  href="/product-categories-4_c66">Product Categories 4</a>
+                  
+         			</li>
+         		 
+                                <li><a  href="/001_c70">001</a>
+                  
+         			</li>
+         		 
+                                <li><a  href="/ball_c72">ball</a>
+                  
+         			</li>
+         		 
+                                <li><a  href="/all-over-lace_c71">all over lace</a>
+                  
+         			</li>
+         		 
+      			</ul>   
+                        </li> 
+                                  
+                <li ><a   href="/news-case_nc1">News&Case</a>
+                          
+                    <ul class="vmegamenu">
+                                       
+        <li><a href="/yhhg_nc11">YHHG</a></li>
+                          
+        <li><a href="/our-certificate_nc2">Our Certificate</a></li>
+     
+                 </ul>        
+                         
+                </li> 
+               
+                        <li ><a  href="/contact-us_d2">Contact Us</a>
+                          
+                        </li>
+                                </ul>	
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+                </div>
+            </div>
+        <div class="attr-nav">
+            <a rel="nofollow" class="search" href="#"><i></i></a>
+        </div>
+        </div>
+        
+    </div>
+    </div>
+    <div class="search_box">
+            <div class="top-search clearfix">
+                <div class="container">
+                    <div class="input-group">
+                        <h4>Search our entire site</h4>
+                        <div class="header_search clearfix">
+                            <input name="search_keyword" onkeydown="javascript:enterIn(event);"  type="text" class="form-control" placeholder="Search...">
+                            <input  type="submit" class="search_btn btn_search1" value="">
+                        </div>
+                        <span class="input-group-addon close-search"><i class="fa fa-times"></i></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+</header><div class="height"></div>
+<div id="myCarousel" class="carousel slide clearfix" data-ride="carousel">
+	<ol class="carousel-indicators">
+       
+           <li  class="active"   data-target="#myCarousel" data-slide-to="0"></li>   
+    		
+        
+    </ol>
+        
+    <div class="carousel-inner">
+           
+        <div class="item  active ">
+    <a target="_blank" href="javascript:void(0);" rel="nofollow" > <img src="/uploadfile/bannerimg/16485408247566218444.jpg" style="width:100%" data-src=" " alt=""/></a>
+        </div>
+        		
+        
+    </div>
+    <a rel="nofollow" class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
+    <a rel="nofollow" class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+</div>
+        
+<div class="main-categories clearfix">
+	<div class="container">
+    <div class="row">
+    	<div class="main-title">
+            <em>Product Categories</em>
+            <p></p>
+        </div>
+        <ul class="mcat-list clearfix">
+        	             
+        	<li class="col-sm-6 col-xs-12"><div>
+            	<a href="/product-categories-1_c63"></a>
+           <img src="/uploadfile/category/7862236e34bbeaad57f2f25ac9f82020.jpg" alt="PRODUCT CATEGORIES 1" />
+                <em class="title">PRODUCT CATEGORIES 1</em>
+                <div class="text">
+                	<em>PRODUCT CATEGORIES 1</em>
+                    <span></span>
+                    <div>When tomorrow turns in today, yesterday, and someday that no more important in your memory, we suddenly realize that we are pushed forward by time.This is not</div>
+                </div>
+                <div class="ovrly"></div>
+                <span class="btn"></span>
+            </div></li>
+                              
+        	<li class="col-sm-6 col-xs-12"><div>
+            	<a href="/product-categories-2_c64"></a>
+           <img src="/uploadfile/category/089eb36cc6a03bf33ce04dc36d5b5133.jpg" alt="Product Categories 2" />
+                <em class="title">Product Categories 2</em>
+                <div class="text">
+                	<em>Product Categories 2</em>
+                    <span></span>
+                    <div>When tomorrow turns in today, yesterday, and someday that no more important in your memory, we suddenly realize that we are pushed forward by time.This is not</div>
+                </div>
+                <div class="ovrly"></div>
+                <span class="btn"></span>
+            </div></li>
+                              
+        	<li class="col-sm-6 col-xs-12"><div>
+            	<a href="/product-categories-3_c65"></a>
+           <img src="/uploadfile/category/78d6e9bd7062d7054fc7db7ee79d2030.jpg" alt="Product Categories 3" />
+                <em class="title">Product Categories 3</em>
+                <div class="text">
+                	<em>Product Categories 3</em>
+                    <span></span>
+                    <div>When tomorrow turns in today, yesterday, and someday that no more important in your memory, we suddenly realize that we are pushed forward by time.This is not</div>
+                </div>
+                <div class="ovrly"></div>
+                <span class="btn"></span>
+            </div></li>
+                              
+        	<li class="col-sm-6 col-xs-12"><div>
+            	<a href="/product-categories-4_c66"></a>
+           <img src="/uploadfile/category/f04fe4ddde15f03da831dda103aaf7a6.jpg" alt="Product Categories 4" />
+                <em class="title">Product Categories 4</em>
+                <div class="text">
+                	<em>Product Categories 4</em>
+                    <span></span>
+                    <div>When tomorrow turns in today, yesterday, and someday that no more important in your memory, we suddenly realize that we are pushed forward by time.This is not</div>
+                </div>
+                <div class="ovrly"></div>
+                <span class="btn"></span>
+            </div></li>
+                              
+        	<li class="col-sm-6 col-xs-12"><div>
+            	<a href="/ball_c72"></a>
+           <img src="/uploadfile/category/8fc41a8fc430093c6f648f8b191c35bd.jpg" alt="ball" />
+                <em class="title">ball</em>
+                <div class="text">
+                	<em>ball</em>
+                    <span></span>
+                    <div>Factory direct sales three color ball</div>
+                </div>
+                <div class="ovrly"></div>
+                <span class="btn"></span>
+            </div></li>
+                               
+        </ul>
+    </div>
+    </div>
+</div>
+
+<div class="aboutBox clearfix">
+	<div class="container">
+    <div class="row">
+    	<div id="parentHorizontalTab01" class="clearfix">
+        	<ul class="resp-tabs-list hor_1 clearfix">
+            	<li><p>About DIYIYE</p></li>
+                <li><p>Our Certificate</p></li>
+            </ul>
+            <div class="resp-tabs-container hor_1">
+            	<div>
+                	<div class="main-about clearfix">
+                    	<div class="left col-sm-6 col-xs-12">
+                            <div class="text">
+                        Anhui Yageli Display Co.,Ltd., was founded in 1999, is one of the largest manufacturers in the production of acrylic display products and acrylic sheets. Since 20 years' hard work, probity, and innovation "Yageli attention to detail, careful to do everything, has continued to move" to build the first national manufacturer of acrylic display products &amp; acrylic sheets "and make unremitting efforts. Due to our scientific management and Seiko secret agents, as well as "to all customers, all services to the customer" philosophy respected, got the trust of new and old customers.
+&nbsp;
+20 Years Experience Of Acrylic Products Design And Production and acrylic sheet as well.
+&nbsp;
+
+Anhui Yageli formerly Hefei yageli legislature craft factory. It's a professional design and production of plexiglass products, acrylic products and acrylic sheets factory, has 20 years of experience in the production of acrylic displays
+&nbsp;
+
+&nbsp;
+                            </div>
+                            <span class="main-more"><a href="/about-us_d1">Read More</a></span>
+                        </div>
+                        <div class="right col-sm-6 col-xs-12">
+                        	<a href="/about-us_d1" class="image">  <img src="/uploadfile/single/b3f77932ff717224f2e28afe922ecc28.jpg" alt="About Us"/></a>
+                        </div>
+                    </div> 
+                </div>
+                <div>
+                	<div class="main-certificate clearfix">
+                        <ul class="main-cer clearfix">
+                                                                        <li class="col-sm-3 col-xs-4">
+                                <a href="/hhh_n54" class="image"><img src="/uploadfile/news/f9b422bc4303f5ebb65f9a596f12e8cd.jpg" alt="HHH"/></a>
+                                <a href="/hhh_n54" class="title">HHH</a>
+                            </li>
+                                             <li class="col-sm-3 col-xs-4">
+                                <a href="/test1_n53" class="image"><img src="/uploadfile/news/af690a08346059251b38c61bb3283943.jpg" alt="test1"/></a>
+                                <a href="/test1_n53" class="title">test1</a>
+                            </li>
+                                             <li class="col-sm-3 col-xs-4">
+                                <a href="/test2_n52" class="image"><img src="/uploadfile/news/ab32c8211745be9a996c4c2e357d4bcb.jpg" alt="test2"/></a>
+                                <a href="/test2_n52" class="title">test2</a>
+                            </li>
+                                             <li class="col-sm-3 col-xs-4">
+                                <a href="/test_n48" class="image"><img src="/uploadfile/news/cd2f5c586183b0e223b48f6f54fc6cc2.jpg" alt="test"/></a>
+                                <a href="/test_n48" class="title">test</a>
+                            </li>
+                    
+                                                    
+                        </ul>
+                                    
+                        <span class="main-more"><a href="/our-certificate_nc2">view all certificate</a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+</div>
+
+<script type="text/javascript" src="/template/js/easyResponsiveTabs.js"></script>
+<script>
+	$(document).ready(function() {
+	//Horizontal Tab
+		$('#parentHorizontalTab01').easyResponsiveTabs({
+			type: 'default', //Types: default, vertical, accordion
+			width: 'auto', //auto or any width like 600px
+			fit: true, // 100% fit in a container
+			tabidentify: 'hor_1', // The tab groups identifier
+			activate: function(event) { // Callback function if tab is switched
+				var $tab = $(this);
+				var $info = $('#nested-tabInfo');
+				var $name = $('span', $info);
+				$name.text($tab.text());
+				$info.show();
+				}
+			});
+		});
+</script>
+
+
+<div class="main-products clearfix">
+	<div class="container">
+    <div class="row">
+    	<div class="main-title">
+            <em>Hot Products</em>
+            <p></p>
+        </div>
+        
+        <ul class="mpro-list clearfix">
+           	
+        	<li class="col-sm-3 col-xs-6">
+            	<a href="/ball_p173.html" class="image"><img id="product_detail_img"  alt="lq" src="/uploadfile/202209/15/d916493dbe78b0925aabc0994d51cbac_thumb.jpg" /></a>
+                <a href="/ball_p173.html" class="title">ball</a>
+                <p>good ball</p>
+                </li>
+           	
+        	<li class="col-sm-3 col-xs-6">
+            	<a href="/non-gmo-olive-oil-1_p169.html" class="image"><img id="product_detail_img"  alt="1" src="/uploadfile/202203/29/c3d612b635d89f507fca834a4650f73a_thumb.jpg" /></a>
+                <a href="/non-gmo-olive-oil-1_p169.html" class="title">Non Gmo Olive Oil-1</a>
+                <p>Yageli's newly designed intubation box provides medical workers with a safer way to work.</p>
+                </li>
+           	
+        	<li class="col-sm-3 col-xs-6">
+            	<a href="/when-tomorrow-turns-in-today_p167.html" class="image"><img id="product_detail_img"  alt="3" src="/uploadfile/202203/29/2c7c573f9518fab051bd73e90261ae76_thumb.jpg" /></a>
+                <a href="/when-tomorrow-turns-in-today_p167.html" class="title">When Tomorrow Turns In Today</a>
+                <p>When tomorrow turns in today, yesterday, and someday that no more important in your memory, we suddenly realize that we are pushed forward by time.This is not</p>
+                </li>
+           	
+        	<li class="col-sm-3 col-xs-6">
+            	<a href="/premium-olive-oil_p166.html" class="image"><img id="product_detail_img"  alt="2" src="/uploadfile/202203/29/e4c827a5dc94824c60c3307d726d1972_thumb.jpg" /></a>
+                <a href="/premium-olive-oil_p166.html" class="title">Premium Olive Oil</a>
+                <p>When tomorrow turns in today, yesterday, and someday that no more important in your memory, we suddenly realize that we are pushed forward by time.This is not</p>
+                </li>
+           
+        </ul>
+        <span class="main-more"><a href="/ph">View All Products</a></span>
+    </div>
+    </div>
+</div>
+
+
+<div class="main-slide clearfix"></div>
+
+<div class="main-service clearfix">
+	<div class="container">
+    <div class="row">
+    	<div class="main-title">
+            <em>Our Service</em>
+            <p></p>
+        </div>
+        <ul class="mser-list clearfix">
+                  
+        	<li class="col-sm-3 col-xs-12 clearfix">
+            	<div class="icon">
+            		<a href="/our-products_d4"></a>
+        <img src="/uploadfile/single/347c6bd205033d455f27333d1f22888b.png" alt="Our Products"/>
+            	</div>
+                <div class="text">
+                	<a href="/our-products_d4" class="title">Our Products</a>
+                        <p>All products has passed national compulsory product certification (3C certification), most of our products pass the CE, RoHS. Some products got approval by the CB,Taiwan CNS certification, South Korea KC.</p>
+                </div>
+                </li>
+           
+        	<li class="col-sm-3 col-xs-12 clearfix">
+            	<div class="icon">
+            		<a href="/100-satisfaction_d5"></a>
+        <img src="/uploadfile/single/b45a2297d7db0c4bae367c7c50bcd475.png" alt="100% Satisfaction"/>
+            	</div>
+                <div class="text">
+                	<a href="/100-satisfaction_d5" class="title">100% Satisfaction</a>
+                        <p>If you are not satisfied with our products or service, please feel free to contact us. We will help you solve the problem.</p>
+                </div>
+                </li>
+          
+        	<li class="col-sm-3 col-xs-12 clearfix">
+            	<div class="icon">
+            		<a href="/_d"></a>
+        <img src="/uploadfile/single/" alt=""/>
+            	</div>
+                <div class="text">
+                	<a href="/_d" class="title"></a>
+                        <p></p>
+                </div>
+                </li>
+           
+        	<li class="col-sm-3 col-xs-12 clearfix">
+            	<div class="icon">
+            		<a href="/_d"></a>
+        <img src="/uploadfile/single/" alt=""/>
+            	</div>
+                <div class="text">
+                	<a href="/_d" class="title"></a>
+                        <p></p>
+                </div>
+                </li>
+        </ul>
+    </div>
+    </div>
+</div>
+
+
+<div class="main-news clearfix">
+	<div class="container">
+    <div class="row">
+    
+        <div class="main-title">
+            <em>Latest news</em>
+            <p></p>
+        </div>
+        <div id="carousel-small" class="owl-carousel enable-owl-carousel" data-auto-play="5000" data-stop-on-hover="true" data-items="3" data-pagination="true" data-navigation="false" data-items-desktop="3" data-items-desktop-small="2" data-items-tablet="2" data-items-tablet-small="1" >
+		  
+                                             	
+		
+			<div class="item">
+				<div class="news-main">
+                	<div class="image">
+                		<a href="/when-tomorrow-turns-in-today_n51"></a>
+                  <img src="/uploadfile/news/c69d8b261bf0f7a0b0b4f1333bf64690.jpg" alt="When Tomorrow Turns In Today"/>
+                        <div class="ovrly"></div>
+                        <span class="btn"></span>
+                    </div>
+                    <div class="text">
+                        <a href="/when-tomorrow-turns-in-today_n51" class="title">When Tomorrow Turns In Today</a>
+                        <p>When tomorrow turns in today, yesterday, and someday that no more important in your memory, we suddenly realize that we are pushed forward by time.Thi</p>
+                        <div class="icon">
+                        	<span class="date"><i class="fa fa-calendar-check-o"></i>2022-03-29</span>
+                          
+                            <a href="/when-tomorrow-turns-in-today_n51" class="more"><i class="fa fa-plus-circle"></i>View More</a>
+                        </div>
+    				</div>
+				</div>
+			</div>
+     	
+		
+			<div class="item">
+				<div class="news-main">
+                	<div class="image">
+                		<a href="/premium-olive-oil_n50"></a>
+                  <img src="/uploadfile/news/10224bae52e8a7658dbccb48cce7d028.jpg" alt="Premium Olive Oil"/>
+                        <div class="ovrly"></div>
+                        <span class="btn"></span>
+                    </div>
+                    <div class="text">
+                        <a href="/premium-olive-oil_n50" class="title">Premium Olive Oil</a>
+                        <p>When tomorrow turns in today, yesterday, and someday that no more important in your memory, we suddenly realize that we are pushed forward by time.Thi</p>
+                        <div class="icon">
+                        	<span class="date"><i class="fa fa-calendar-check-o"></i>2022-03-29</span>
+                          
+                            <a href="/premium-olive-oil_n50" class="more"><i class="fa fa-plus-circle"></i>View More</a>
+                        </div>
+    				</div>
+				</div>
+			</div>
+     	
+		
+			<div class="item">
+				<div class="news-main">
+                	<div class="image">
+                		<a href="/when-tomorrow-turns-in-today_n49"></a>
+                  <img src="/uploadfile/news/26b43e7bfdbb7349f384fe75f311b06a.jpg" alt="When Tomorrow Turns In Today"/>
+                        <div class="ovrly"></div>
+                        <span class="btn"></span>
+                    </div>
+                    <div class="text">
+                        <a href="/when-tomorrow-turns-in-today_n49" class="title">When Tomorrow Turns In Today</a>
+                        <p>When tomorrow turns in today, yesterday, and someday that no more important in your memory, we suddenly realize that we are pushed forward by time.Thi</p>
+                        <div class="icon">
+                        	<span class="date"><i class="fa fa-calendar-check-o"></i>2022-03-29</span>
+                          
+                            <a href="/when-tomorrow-turns-in-today_n49" class="more"><i class="fa fa-plus-circle"></i>View More</a>
+                        </div>
+    				</div>
+				</div>
+			</div>
+        
+                                         
+
+		</div>
+    </div>
+    </div>
+</div>
+
+<div class="footer clearfix">
+    <div class="container">
+        <div class="row">
+            <div class="fot-about clearfix">
+                <a href="/" class="fot-logo"><img src="/template/images/logo.png" alt="Xia Men first page network technology co.,Limited" /></a>
+                <div class="text">Anhui Yageli Display Co.,Ltd., was founded in 1999, is one of the largest manufacturers in the production of acrylic display products and acrylic sheets. Since 20 years' hard work, probity, and innovation "Yageli attention to detail, careful to do everything, has continued to move" to build the first national manufacturer of acrylic display products &amp; acrylic sheets "and make unremitting efforts. Due to our scientific management and Seiko secret agents, as well as "to all customers, all services to the customer" philosophy respected, got the trust of new and old customers.
+&nbsp;
+20 Years Experience Of Acrylic Products Design And Production and acrylic sheet as well.
+&nbsp;
+
+Anhui Yageli formerly Hefei yageli legislature craft factory. It's a professional design and production of plexiglass products, acrylic products and acrylic sheets factory, has 20 years of experience in the production of acrylic displays
+&nbsp;
+
+&nbsp;
+</div>
+            </div>
+            <div id="right_column" class="fot_tags clearfix">
+                <section id="blockbestsellers" class="block products_block column_box">
+                    <span class="fot_title"><em>Hot tags</em><span></span><i class="column_icon_toggle icon-plus-sign"></i></span>
+                    <div class="block_content toggle_content">
+                        <ul>
+                              
+                                    <li><a href="/dagaf_sp"><i></i>dagaf</a></li>
+                                  
+                                    <li><a href="/teaqtd_sp"><i></i>teaqtd</a></li>
+                                                        </ul>
+                    </div>
+                </section>
+            </div>
+            <div id="right_column" class="fot_con clearfix">
+                <section id="blockbestsellers" class="block products_block column_box">
+                    <span class="fot_title"><em>Get In Touch</em><span></span><i class="column_icon_toggle icon-plus-sign"></i></span>
+                    <div class="block_content toggle_content">
+                        <ul class="fot-list">
+                             
+                                                                 
+                                    <li class="fot-phone">0551-1234562</li>
+                                                             
+                             
+                                                                 
+                                    <li class="fot-email"><a rel="nofollow" href="mailto:dyyseokf01@dyyseo.com">dyyseokf01@dyyseo.com</a></li>
+                                                             
+                             
+                                                                                                    <li class="fot-skype"><a rel="nofollow" href="skype:SKYPESKYPE?chat">SKYPESKYPE</a></li>
+                                                                                         
+                                                                 
+                                    <li class="fot-whatsapp">
+                                        <a rel="nofollow" target="_blank" href="https://api.whatsapp.com/send?phone=+86 13896458721&text=Hello" >   
+                                    +86 13896458721</a>
+                                    </li>
+                                                                                         
+                                                                 
+                                    <li class="fot-add">Google Sea Experience Center, 1st Floor, Meihua Building, West District, Huli High-tech Park, No. 73-75 Huli District, Hu'an Road</li>
+                                                                                    </ul>
+                        <ul class="fot-share">
+                            <p>Follow Us :</p>
+
+                              
+                              
+
+                                
+                                    <li><a rel="nofollow" target="_blank" href="https://" ><img src="/uploadfile/friendlink/7528037ce3b4d6e21dd4805855c34c45.png" alt="facebook" /></a></li>
+
+                                
+                                    <li><a rel="nofollow" target="_blank" href="https://" ><img src="/uploadfile/friendlink/4564b5095c4076ec953b41c0aec05630.png" alt="twitter" /></a></li>
+
+                                
+                                    <li><a rel="nofollow" target="_blank" href="https://" ><img src="/uploadfile/friendlink/1931b925af305b47fb4b90e1316ca7c8.png" alt="google+" /></a></li>
+
+                                
+                                    <li><a rel="nofollow" target="_blank" href="https://" ><img src="/uploadfile/friendlink/5827caeea6513302ba594ba2127a1c30.png" alt="linkedin" /></a></li>
+
+                                
+                                    <li><a rel="nofollow" target="_blank" href="https://" ><img src="/uploadfile/friendlink/ce87f0d5a6da417aec7a832804764bed.png" alt="youtube" /></a></li>
+
+                                
+                                    <li><a rel="nofollow" target="_blank" href="https://" ><img src="/uploadfile/friendlink/0e6a1d030e6cab581fd4d1a960432d9f.png" alt="pinterest" /></a></li>
+
+                                
+                                    <li><a rel="nofollow" target="_blank" href="http://" ><img src="/uploadfile/friendlink/719844ceb225e0851ffc4ed8e56dda4d.png" alt="blog" /></a></li>
+
+                                                             
+                        </ul>
+                    </div>
+                </section>
+            </div>
+            <div class="clearfix"></div>
+            <div class="main-sub clearfix"><div class="sub-box">
+                    <em>Newsletter</em>
+                    <p>Get our latest activities and information.</p>
+
+                    <div class="letter-input">
+                        <input id="user_email" type="text" name="msg_email" class="fot_input" placeholder="Enter your email" onfocus="if(this.placeholder=='Enter your email'){this.placeholder='';}" onblur="if(this.placeholder==''){this.placeholder='Enter your email';}">
+                        <input onclick="add_email_list();" class="submit" value="Submit">
+                        <script type="text/javascript">
+                            var email = document.getElementById('user_email');
+                            function add_email_list()
+                            {
+
+                                $.ajax({
+                                    url: "/common/ajax/addtoemail/emailname/" + email.value,
+                                    type: 'GET',
+                                    success: function(info) {
+                                        if (info == 1) {
+                                            alert('Successfully!');
+
+                                        } else {
+                                            alert('loss');
+                                        }
+                                    }
+                                });
+
+                            }
+
+
+                        </script> 
+                    </div>
+                </div></div>
+        </div>
+    </div>
+</div>
+
+<div class="fot-nav clearfix">
+    <div class="container">
+        <div class="row">
+            <div id="right_column" class="fot_nav clearfix">
+                <section id="blockbestsellers" class="block products_block column_box">
+                    <span class="fot_title"><em>Follow Us</em><i class="column_icon_toggle icon-plus-sign"></i></span>
+                    <div class="block_content toggle_content">
+                        <ul>
+                                                                <li><a href="/">Home</a></li>
+
+                                                                    <li><a href="/about-us_d1">About Us</a></li>
+
+                                                                    <li><a href="/products">Products</a></li>
+
+                                                                    <li><a href="/news_nc1">News</a></li>
+
+                                                                    <li><a href="/contact-us_d2">Contact Us</a></li>
+
+                                                                    <li><a href="/shop-online_d43">Shop Online</a></li>
+
+                                                                    <li><a href="/blog">Blog</a></li>
+
+                                                        </ul>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="fot-bot clearfix">
+    <p class="copy">Copyright © 2025 Xia Men first page network technology co.,Limited.All Rights Reserved. Powered by <a href="http://www.dyyseo.com/">dyyseo.com .</a></p>
+    <ul class="fot-fri clearfix">
+                 
+    </ul>
+</div>
+
+<div id="online_qq_layer">
+    <div id="online_qq_tab">
+        <a id="floatShow" rel="nofollow" href="javascript:void(0);"><p>Chat now</p><i class="fa fa-window-maximize"></i></a> 
+        <a id="floatHide" rel="nofollow" href="javascript:void(0);"><p>Live Chat</p><i class="fa fa-minus"></i></a>
+    </div>
+    <div id="onlineService">
+        <div class="online_form">
+            <form  id="email_form1" method="post" action="/inquiry/addinquiry" > 
+                <ul>
+                                        <input name="token" type="hidden" value="1744594481">
+                    <p></p>
+                    <li>
+                        <input type="text" name="msg_title" class="meInput"  placeholder="The title *" />
+                    </li>
+                    <li>
+                        <input type="text" name="msg_email" class="meInput"  placeholder="Your email *" />
+                    </li>
+                    <li>
+                        <textarea id="meText" name="msg_content" placeholder="The message *"  class="meText"></textarea>
+                    </li>
+                </ul>
+                <span class="main-more"><input type="submit" value="Send Message"></span>
+            </form> 
+        </div>
+    </div>
+</div>
+
+
+<div class="side">
+    <ul>
+         
+                                                                       
+                <li class="hidden-xs"><a  href="https://api.whatsapp.com/send?phone=+86 13896458721&text=Hello" rel="nofollow"><div class="sidebox"><img src="/template/images/ser-whatsapp.png">+86 13896458721</div></a></li>
+                      
+         
+                            
+                <li class="fixed_whatsapp"><a href="whatsapp://send?phone=+86 13896458721&text=Hello" rel="nofollow"><div class="sidebox"><img src="/template/images/ser-whatsapp.png">+86 13896458721</div></a></li>
+                      
+         
+                                                                         
+                <li><a rel="nofollow" href="skype:SKYPESKYPE?chat">
+                        <div class="sidebox"><img src="/template/images/ser-skype.png">SKYPESKYPE</div>
+                    </a></li>
+                                    
+
+         
+                              
+                <li><a><div class="sidebox"><img src="/template/images/ser-phone.png">0551-1234562</div></a></li>
+                    
+         
+                         
+                <li><a rel="nofollow" href="mailto:dyyseokf01@dyyseo.com">
+                        <div class="sidebox"><img src="/template/images/ser-email.png">dyyseokf01@dyyseo.com</div>
+                    </a></li>
+                                   
+
+         
+                              
+                <li><a rel="nofollow" target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=376212065&site=qq&menu=yes"><div class="sidebox"><img src="/template/images/ser-qq.png">376212065</div></a></li>
+                             
+
+    </ul>
+</div>
+
+
+<a rel="nofollow" href="javascript:;" class="back_top" style="display: inline;"></a>
+
+<script>
+    $(function(){
+        $(".side ul li").hover(function(){
+            $(this).find(".sidebox").stop().animate({"width":"280px"},200).css({"opacity":"1","filter":"Alpha(opacity=100)","background":"#e60039"})	
+        },function(){
+            $(this).find(".sidebox").stop().animate({"width":"40px"},200).css({"opacity":"0.8","filter":"Alpha(opacity=80)","background":"#333333"})	
+        });
+    });
+</script>
+<script type="text/javascript" src="/template/js/jquery.meanmenu.js"></script>
+<script type="text/javascript" src="/template/js/main.js"></script>
+<script type="text/javascript" src="/template/js/owl.carousel.min.js"></script>
+
+<script type="text/javascript" src="/template/js/wow.min.js"></script>
+<script type="text/javascript" src="/template/js/jquery.placeholder.min.js"></script>
+<script type="text/javascript" src="/template/js/theme.js"></script>
+
+
+</body>
+</html>
